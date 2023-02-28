@@ -13,10 +13,10 @@ assignees: ''
 **Steps**
 1. <obrigatório>
 
-**Actual**
+**Expected**
 <obrigatório>
 
-**Expected**
+**Actual**
 <obrigatório>
 
 **Detected version**
