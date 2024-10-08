@@ -1,7 +1,7 @@
 ---
 name: Story
 about: Template for project's stories
-title: "[Story]"
+title: "[Story][] "
 labels: story
 assignees: ''
 ---
@@ -13,17 +13,17 @@ assignees: ''
 - **Why**: Para 
 
 ## Acceptance Criteria
-1) **Cenário - Lorem Ispum A** <br>
-**Dado**:   <br>
-**Quando**:  <br>
-**Então**:  <br>
-**E**:  <br>
+1) **Cenário - Lorem Ipsum A**
+**Dado**: 
+**Quando**:
+**Então**: 
+**E**: 
 
-2) **Cenário - Lorem Ispum B** <br>
-**Dado**:  <br>
-**Quando**:  <br>
-**Então**:  <br>
-**E**:  <br>
+2) **Cenário - Lorem Ipsum B**
+**Dado**: 
+**Quando**: 
+**Então**: 
+**E**:
 
 ## Tasks
 - [ ] [System] 
