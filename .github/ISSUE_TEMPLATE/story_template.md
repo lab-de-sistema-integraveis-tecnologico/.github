@@ -1,7 +1,7 @@
 ---
 name: Story
 about: Template for project's stories
-title: "[Story][] "
+title: "[Story][<function>] "
 labels: story
 assignees: ''
 ---
