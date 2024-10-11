@@ -2,8 +2,9 @@
 name: Story
 about: Template for project's stories
 title: "[Story][<function>] "
-labels: story
+labels: ''
 assignees: ''
+
 ---
 
 ## Details of the Story
@@ -28,4 +29,4 @@ assignees: ''
 ## Tasks
 - [ ] [System] 
 - [ ] [AWS] 
-- [ ] [UI] 
+- [ ] [UI]
