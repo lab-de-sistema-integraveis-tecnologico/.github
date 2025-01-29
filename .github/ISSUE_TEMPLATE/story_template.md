@@ -1,6 +1,6 @@
 ---
 name: Story
-about: Template for project's stories
+about:  Funcionalidade pequena e independente.
 title: "[Story][<function>] "
 labels: ''
 assignees: ''
