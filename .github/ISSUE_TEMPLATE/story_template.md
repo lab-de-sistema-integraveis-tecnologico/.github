@@ -21,7 +21,7 @@ type: Story
 **Então**: 
 **E**: 
 
-## 2) **Cenário - Lorem Ipsum B
+## 2) Cenário - Lorem Ipsum B
 **Dado**: 
 **Quando**: 
 **Então**: 
